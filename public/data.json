@@ -1,0 +1,80 @@
+[
+  {
+    "book_id": 1,
+    "book_name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFOZ9_aGHZym6_OFDk_RGsFuNha8D8UsPBN-iH_oqsA&s",
+    "review": "A timeless classic capturing the essence of the Jazz Age.",
+    "total_pages": 180,
+    "rating": 4.5,
+    "category": "Classic Literature",
+    "tags": ["Classics", "Romance", "Tragedy"],
+    "publisher": "Scribner",
+    "year_of_publishing": 1925
+  },
+  {
+    "book_id": 2,
+    "book_name": "1984",
+    "author": "George Orwell",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLfyOv3e7rmwb6zQ899LuN9l7cfTdqqdY3Jcz8ULNRGtZ6Ncuo-c2vXwTJhWGp0UdSgk&usqp=CAU",
+    "review": "A chilling portrayal of a dystopian society that remains relevant today.",
+    "total_pages": 328,
+    "rating": 4.8,
+    "category": "Dystopian Fiction",
+    "tags": ["Dystopian", "Political", "Philosophical"],
+    "publisher": "Secker & Warburg",
+    "year_of_publishing": 1949
+  },
+  {
+    "book_id": 3,
+    "book_name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
+    "review": "A powerful narrative addressing racial injustice with unforgettable characters.",
+    "total_pages": 336,
+    "rating": 4.7,
+    "category": "Social Commentary",
+    "tags": ["Classic", "Coming-of-age", "Social Issues"],
+    "publisher": "J.B. Lippincott & Co.",
+    "year_of_publishing": 1960
+  },
+  {
+    "book_id": 4,
+    "book_name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://pictures.abebooks.com/inventory/md/md30812147172.jpg",
+    "review": "A seminal work capturing the angst and alienation of adolescence.",
+    "total_pages": 224,
+    "rating": 4.6,
+    "category": "Coming-of-age Fiction",
+    "tags": ["Coming-of-age", "Literary", "Cultural"],
+    "publisher": "Little, Brown and Company",
+    "year_of_publishing": 1951
+  },
+  {
+    "book_id": 5,
+    "book_name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://static-01.daraz.com.bd/p/7eb65ef202903caf5d6457179d33151d.jpg",
+    "review": "A timeless romance with sharp social commentary and memorable characters.",
+    "total_pages": 279,
+    "rating": 4.9,
+    "category": "Romantic Fiction",
+    "tags": ["Romance", "Satire", "Classic"],
+    "publisher": "T. Egerton, Whitehall",
+    "year_of_publishing": 1813
+  },
+  {
+    "book_id": 6,
+    "book_name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
+    "review": "An enchanting adventure in a fantastical world that captivates readers of all ages.",
+    "total_pages": 310,
+    "rating": 4.8,
+    "category": "Fantasy Adventure",
+    "tags": ["Adventure", "Quest", "Middle-earth"],
+    "publisher": "George Allen & Unwin",
+    "year_of_publishing": 1937
+  }
+]
